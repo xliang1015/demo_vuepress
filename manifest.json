@@ -1,0 +1,24 @@
+{
+    "name": "肖亮",
+    "short_name": "肖亮",
+    "start_url": "index.html",
+    "display": "Standalone",
+    "background_color": "#2196f3",
+    "description": "肖亮的个人主页",
+    "theme_color": "blue",
+    "icons": [
+    	{
+        "src": "./logo.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "related_applications": [
+      {
+				"platform": "",
+				"url": ""
+      }
+    ]
+}
+
+  
